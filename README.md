@@ -9,7 +9,7 @@
 
 <p>Make sure you have following files in the same directory where your controller is located:</p>
 <ul>
-<li>vrep.py.</li>
+<li>vrep.py</li>
 <li>vrepConst.py</li>
 <li>the appropriate remote API library: "remoteApi.dll" (Windows), "remoteApi.dylib" (Mac) or "remoteApi.so" (Linux)</li>
 </ul>
