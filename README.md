@@ -1,4 +1,4 @@
-# BASIC SYNCHRONOUS PY-BASED EXTRENAL CLIENT APP FOR VREP 
+# VREP Synchronous Py-based External Client App
 
 <p> Check port number for a correct socket communication between controller and server: </p>
 <ol>
