@@ -7,7 +7,7 @@
 <li>You will need this number on your controller's script.</li>
 </ol>
 
-<p>Make sure you have following files in the same directory where your controller is located:</p>
+<p>Make sure you copy the following files in the same directory where your controller is located:</p>
 <ul>
 <li>vrep.py</li>
 <li>vrepConst.py</li>
@@ -17,4 +17,4 @@
 
 <p>Open your simulation scene in VREP.</p>
 
-<p>Run your_script.py (controller's script). The simulation will start automatically.</p>
+<p>Run your_script.py (controller). The simulation will start automatically.</p>
